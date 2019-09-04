@@ -1,0 +1,16 @@
+{
+  "name": "vue-file-picker",
+  "version": "1.0.0",
+  "description": "vue component for file inputs that accepts a v-model and displays selected file previews",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "filepicker",
+    "vuefilepicker"
+  ],
+  "author": "@sam)roksta\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[_",
+  "license": "MIT"
+}
